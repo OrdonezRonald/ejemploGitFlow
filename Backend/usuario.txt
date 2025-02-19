@@ -1,2 +1,4 @@
 registro de usuario fue creado.
 El registro de usuario ya fue corregido con exito
+
+SOY ADMINISTRADOR Y ESTOY MODIFICANDO COSAS DEL USUARIO
