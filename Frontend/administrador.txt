@@ -1,1 +1,3 @@
 parte visual del modulo administrador.
+
+SOY EL USUARIO Y MODIFIQUE EL MODULO DEL ADMINISTRADOR SIN PERMISO
